@@ -21,7 +21,7 @@
                 "Legendary Egg": {"rarity": "Legendary"},
                 "Rare Egg": {"rarity": "Rare"},
                 "Common Summer Egg": {"rarity": "Common"},
-                "Bee Egg": {"rarity": "Rare"},
+                "Bee Egg": {"rarity": "Mythical"},
             },
             "🍎 Fruits & Seeds": {
                 "Apple": {"rarity": "Legendary"},
