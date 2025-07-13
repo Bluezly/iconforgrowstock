@@ -54,5 +54,6 @@
                 "Tomato": {"rarity": "Rare"},
                 "Watermelon": {"rarity": "Legendary"},
                 "Beanstalk": {"rarity": "Prismatic"},
+                "Giant Pinecone": {"rarity": "Prismatic"},
                 "Bamboo": {"rarity": "Legendary"}
             }
