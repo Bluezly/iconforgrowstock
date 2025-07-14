@@ -9,9 +9,9 @@
                 "Tanning Mirror": {"rarity": "Unknown"},
                 "Advanced Sprinkler": {"rarity": "Legendary"},
                 "Favorite Tool": {"rarity": "Divine"},
-                "Medium Toy" legendary 
-                "Medium Treat" legendary
-                "Levelup Lollipop" prismatc
+                "Medium Toy": {"rarity": "Legendary"},
+                "Medium Treat": {"rarity": "Legendary"},
+                "Levelup Lollipop": {"rarity": "Prismatic"},
                 "Watering Can": {"rarity": "Common"}
             },
             "🥚 Eggs Collection": {
